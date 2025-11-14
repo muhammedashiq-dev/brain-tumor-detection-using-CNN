@@ -1,0 +1,3 @@
+0 Brain Tumor Stage 1
+1 Brain Tumor Stage 2
+2 Brain Tumor Stage 3

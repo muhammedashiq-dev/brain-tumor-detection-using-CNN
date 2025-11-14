@@ -1,0 +1,51 @@
+export const TechnologyData = [
+    {
+      icon: "/image_classification_icon.svg",
+      category: "AI",
+      name: "Image Classification",
+      description: "Categorizes medical images to identify potential tumors.",
+      link: "https://en.wikipedia.org/wiki/Image_classification",
+    },
+    {
+      icon: "/eda_icon.png",
+      category: "Data Analysis",
+      name: "Exploratory Data Analysis (EDA)",
+      description: "Uncovers patterns and insights from medical data to aid in diagnosis.",
+      link: "https://en.wikipedia.org/wiki/Exploratory_data_analysis",
+    },
+    {
+      icon: "/hyperparameter_tuning_icon.png",
+      category: "AI",
+      name: "Hyperparameter Tuning",
+      description: "Optimizes model parameters for improved accuracy and performance.",
+      link: "https://en.wikipedia.org/wiki/Hyperparameter_optimization",
+    },
+    {
+      icon: "/svm_icon.png",
+      category: "AI",
+      name: "Support Vector Machine (SVM)",
+      description: "A powerful classification algorithm for separating tumor data from healthy data.",
+      link: "https://en.wikipedia.org/wiki/Support-vector_machine",
+    },
+    {
+      icon: "/random_forest_icon.svg",
+      category: "AI",
+      name: "Random Forest Classifier",
+      description: "An ensemble learning method for robust and accurate prediction.",
+      link: "https://en.wikipedia.org/wiki/Random_forest",
+    },
+    {
+      icon: "/cnn_icon.png",
+      category: "AI",
+      name: "Convolutional Neural Networks (CNNs)",
+      description: "Specialized neural networks for processing and analyzing image data.",
+      link: "https://en.wikipedia.org/wiki/Convolutional_neural_network",
+    },
+    {
+      icon: "/rnn_icon.png",
+      category: "AI",
+      name: "Recurrent Neural Networks (RNNs)",
+      description: "Analyze sequences of data, such as patient history or time-series medical images.",
+      link: "https://en.wikipedia.org/wiki/Recurrent_neural_network",
+    },
+  ];
