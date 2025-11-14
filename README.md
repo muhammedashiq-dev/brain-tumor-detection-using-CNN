@@ -97,5 +97,13 @@ python app.py
 5. Open in Browser
 http://127.0.0.1:5000
 
+🖼️ Web App Screenshots
+<img width="512" height="840" alt="image" src="https://github.com/user-attachments/assets/bd26c273-6516-4c5d-ab2d-69d16d8afb82" />
+
+<img width="516" height="478" alt="image" src="https://github.com/user-attachments/assets/98e53fe7-cf1e-4f7b-8511-e817aaed8a39" />
+
+<img width="571" height="297" alt="image" src="https://github.com/user-attachments/assets/5673d552-f156-44be-94aa-ed51d4412454" />
+
+
 
 Upload an MRI image → instantly get prediction.
